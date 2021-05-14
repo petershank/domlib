@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/petershank/domlib/issues"
   },
-  "homepage": "https://github.com/petershank/domlib#readme"
+  "homepage": "https://github.com/petershank/domlib#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.2.2",
+    "babel-preset-es2015": "^6.24.1",
+    "webpack": "^5.37.0",
+    "webpack-dev-server": "^3.11.2"
+  }
 }
