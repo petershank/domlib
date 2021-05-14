@@ -1,0 +1,24 @@
+{
+  "name": "domlib",
+  "version": "1.0.0",
+  "description": "a simple node library for DOM manipulation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petershank/domlib.git"
+  },
+  "keywords": [
+    "DOM",
+    "manipulation",
+    "library"
+  ],
+  "author": "peter@shank.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/petershank/domlib/issues"
+  },
+  "homepage": "https://github.com/petershank/domlib#readme"
+}
