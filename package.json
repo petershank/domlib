@@ -2,7 +2,7 @@
   "name": "domlib",
   "version": "1.0.0",
   "description": "a simple node library for DOM manipulation",
-  "main": "index.js",
+  "main": "src/App.es6",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
